@@ -1,0 +1,19 @@
+Analyzing AAPL...
+Alpha: 0.000394
+Market Beta: 1.046543
+SMB Beta: -0.269457
+HML Beta: 0.251931
+R-Squared: 0.2742
+RMSE: 1.1934%
+MAE: 0.8410%
+
+Factor Performance During Trade:
+Market (Mkt-RF): 11.48%
+SMB: 3.75%
+HML: 17.95%
+
+Factor Contributions:
+Market: 12.08%
+SMB: -1.10%
+HML: 4.28%
+Alpha: 8.39%
