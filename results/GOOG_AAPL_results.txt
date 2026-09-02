@@ -1,0 +1,41 @@
+Analyzing GOOG...
+Alpha: 0.003449
+Market Beta: 1.356724
+SMB Beta: -0.410459
+HML Beta: -0.184265
+R-Squared: 0.2106
+RMSE: 1.4668%
+MAE: 0.9808%
+
+Factor Performance During Trade:
+Market (Mkt-RF): 9.99%
+SMB: 2.60%
+HML: 2.73%
+
+Factor Contributions:
+Market: 13.11%
+SMB: -1.13%
+HML: -0.52%
+Alpha: 23.80%
+
+=========================================================
+
+Analyzing AAPL...
+Alpha: 0.000394
+Market Beta: 1.046543
+SMB Beta: -0.269457
+HML Beta: 0.251931
+R-Squared: 0.2742
+RMSE: 1.1934%
+MAE: 0.8410%
+
+Factor Performance During Trade:
+Market (Mkt-RF): 11.48%
+SMB: 3.75%
+HML: 17.95%
+
+Factor Contributions:
+Market: 12.08%
+SMB: -1.10%
+HML: 4.28%
+Alpha: 8.39%
